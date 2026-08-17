@@ -2,3 +2,4 @@ discord.py
 requests
 aiohttp
 beautifulsoup4
+curl_cffi
